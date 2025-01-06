@@ -1,0 +1,77 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Robot Framework log files
+*.log
+*.html
+*.xml
+output/
+log.html
+report.html
+output.xml
+
+# Temporary files
+*.tmp
+*.temp
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Config and environment files
+.env
+*.env
+*.env.*
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+
+# Dependencies
+__pypackages__/
+poetry.lock
+*.whl
+
+# Temporary coverage files
+.coverage
+.coverage.*
+
+# Robot Framework temporary files
+*.robot~ 
+*.resource~
+*.tsv~
+*.csv~
+*.log
+
+# Zoomba screenshots (if applicable)
+screenshots/
+
+# Custom patterns for test artifacts
+results/
+artifacts/
+screenshots/
+
+# Ignore custom libraries
+libraries/
