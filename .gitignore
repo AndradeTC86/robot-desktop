@@ -11,7 +11,7 @@ output/
 log.html
 report.html
 output.xml
-log/
+logs
 
 # Temporary files
 *.tmp
