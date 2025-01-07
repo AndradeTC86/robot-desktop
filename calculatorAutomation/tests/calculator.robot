@@ -11,7 +11,7 @@ Suite Teardown    Driver Teardown
 Force Tags        Windows
 
 *** Test Cases ***
-Esperar E Clicar No Botão Dois
+Esperar E Clicar No Botão Nove
     ${number}    Set Variable    9
     Click in number button       ${number}
     Check calculator results     ${number}

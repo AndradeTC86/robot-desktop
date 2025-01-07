@@ -12,7 +12,7 @@ Start App
     Driver Setup    
     Open Application    
     ...    ${REMOTE_URL}    
-    ...    platformName=wWndows    
+    ...    platformName=Windows    
     ...    automationName=Windows     
     ...    app=${APP}
     Quit Application
