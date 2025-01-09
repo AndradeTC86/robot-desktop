@@ -46,7 +46,7 @@ Validar Divisão
     ${secondNumber}   Set Variable    3
     ${result}         Set Variable    2
     Click in number button       ${firstNumber}
-    Click in minus button
-    Click in number button    ${secondNumber}
     Click in divide button
+    Click in number button    ${secondNumber}
+    Click in equal button
     Check calculator results     ${result}
